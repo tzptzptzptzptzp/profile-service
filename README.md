@@ -12,13 +12,17 @@
 
 ### 要件
 
-- [要件定義](./docs/requirements/要件定義.md)
+- [要件定義](./docs/requirement/要件定義.md)
 
 ### 運用
 
-- [コミット](./docs/operations/コミット.md)
-- [ブランチ](./docs/operations/ブランチ.md)
-- [リリース](./docs/operations/リリース.md)
+- [コミット](./docs/operation/コミット.md)
+- [ブランチ](./docs/operation/ブランチ.md)
+- [リリース](./docs/operation/リリース.md)
+
+### 構造
+
+- [ディレクトリ構成](./docs/structure/ディレクトリ構成.md)
 
 ### 設計
 
@@ -27,12 +31,16 @@
 
 ### 仕様
 
-- [機能仕様](./docs/specifications/README.md)
+- [機能仕様](./docs/specification/README.md)
+
+### 画面
+
+- [画面一覧](./docs/screen/README.md)
 
 ### 使用技術
 
-- [使用技術](./docs/technology/使用技術.md)
+- [使用技術](./docs/technology/README.md)
 
 ### テスト
 
-- [テスト](./docs/testing/テスト.md)
+- [テスト](./docs/testing/README.md)
