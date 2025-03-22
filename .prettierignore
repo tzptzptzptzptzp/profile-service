@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+
+node_modules
+docs
+public
+package.json
+package-lock.json
+yarn.lock
+.next
+.prettierrc
