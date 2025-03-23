@@ -6,7 +6,8 @@ module.exports = {
   },
   parserPreset: {
     parserOpts: {
-      headerPattern: /^(?<type>[\p{Emoji_Presentation}]) (?<subject>.+)$/u,
+      headerPattern:
+        /^(?<type>[\p{Emoji}\p{Emoji_Component}\p{Emoji_Modifier_Base}\p{Emoji_Modifier}]+) (?<subject>.+)$/u,
       headerCorrespondence: ['type', 'subject'],
     },
   },
