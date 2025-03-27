@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome",
     "prepare": "husky"
   },
   "dependencies": {
