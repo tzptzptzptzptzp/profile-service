@@ -5,6 +5,7 @@ on:
     paths:
       - 'cypress/**'
       - 'src/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 jobs:
