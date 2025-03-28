@@ -50,3 +50,66 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 ### テスト
 
 - [テスト](./docs/testing/README.md)
+
+## 環境構築
+
+<details>
+
+### 前提条件
+
+- Node.jsがインストールされていること
+- npmまたはyarnが使用できること
+
+### 手順
+
+1. **リポジトリをクローン**
+
+   ```bash
+   git clone https://github.com/tzptzptzptzptzp/profile-service.git
+   cd profile-service
+   ```
+
+2. **依存関係のインストール**
+
+   ```bash
+   npm install
+   # または
+   yarn install
+   ```
+
+3. **環境変数の設定**
+
+   `.env.sample`ファイルをコピーし、`.env`ファイルを作成します。
+
+4. **開発サーバーの起動**
+
+   開発サーバーを起動し、アプリケーションが正しく動作することを確認します。
+
+   ```bash
+   npm run dev
+   # または
+   yarn dev
+   ```
+
+   ブラウザで `http://localhost:3000` を開き、アプリケーションが表示されることを確認します。
+
+5. **ビルドと本番サーバーの起動**
+
+   アプリケーションをビルドし、本番環境でテストします。
+
+   ```bash
+   npm run build
+   npm start
+   # または
+   yarn build
+   yarn start
+   ```
+   
+   `http://localhost:3000`でアプリケーションが動作することを再度確認します。
+
+### 注意事項
+
+- セキュリティ上、`.env`ファイルは必ず`.gitignore`に追加してください。
+    
+</details>
+
