@@ -49,7 +49,7 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 
 ### テスト
 
-- [テスト](./docs/testing/README.md)
+- [テスト](./docs/testing/テスト.md)
 
 ## 環境構築
 
