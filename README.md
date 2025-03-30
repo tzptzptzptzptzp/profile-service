@@ -41,7 +41,7 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 
 ### 画面
 
-- [画面一覧](./docs/screen/README.md)
+- [画面設計](./docs/screen/README.md)
 
 ### 使用技術
 
