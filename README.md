@@ -17,7 +17,7 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 ## インフラ構成図
 
 <div align="center">
-    <img alt="PROFILE" src="./docs/image/Infrastructure-diagram.svg" width="600px" />
+    <img alt="インフラ構成図" src="./docs/image/Infrastructure-diagram.svg" width="600px" />
 </div>
 
 ## ドキュメント
