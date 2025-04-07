@@ -41,7 +41,7 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 
 ### 画面
 
-- [画面設計](./docs/screen/README.md)
+- [画面設計](./docs/screen/画面設計.md)
 
 ### 使用技術
 
@@ -49,7 +49,7 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 
 ### テスト
 
-- [テスト](./docs/testing/README.md)
+- [テスト](./docs/testing/テスト.md)
 
 ## 環境構築
 
