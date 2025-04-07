@@ -14,6 +14,12 @@ GitHub Projectsを使用して、Issueベースでタスク・情報・工数の
 
 - [カンバンボード](https://github.com/users/tzptzptzptzptzp/projects/4/views/1)
 
+## インフラ構成図
+
+<div align="center">
+    <img alt="PROFILE" src="./docs/image/Infrastructure-diagram.svg" width="600px" />
+</div>
+
 ## ドキュメント
 
 ### 要件
